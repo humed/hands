@@ -1,5 +1,5 @@
 {
-  "name": "OpenHands AI Workspace",
+  "name": "humed-hands-hbgue97eoj",
   "image": "mcr.microsoft.com/vscode/devcontainers/base:ubuntu",
   "customizations": {
     "vscode": {
